@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![MyCard](https://user-images.githubusercontent.com/76990938/146709723-b5c310c8-fafe-483f-a362-f459fe81d88e.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
